@@ -1,0 +1,14 @@
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.exe
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.deps.json
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.runtimeconfig.json
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.dll
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\bin\Debug\net6.0\ConsoleApp42.pdb
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.AssemblyInfoInputs.cache
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.AssemblyInfo.cs
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.dll
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\refint\ConsoleApp42.dll
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.pdb
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ConsoleApp42.genruntimeconfig.cache
+C:\Users\Viktor\source\repos\ConsoleApp42\ConsoleApp42\obj\Debug\net6.0\ref\ConsoleApp42.dll
